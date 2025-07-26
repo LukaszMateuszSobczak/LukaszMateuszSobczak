@@ -1,4 +1,4 @@
-# LukasMateuszSobczak
+# LukaszMateuszSobczak
 
 Aspiring Front-End Developer 👨‍💻
 Solid foundation in HTML, CSS & JavaScript
