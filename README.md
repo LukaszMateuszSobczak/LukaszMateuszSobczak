@@ -63,6 +63,6 @@ Next up: **Node.js** 🌐 – because I'm aiming to become a **full-stack develo
 
 ### 🌐 Connect with me
 
-🔗 [LinkedIn](www.linkedin.com/in/łukasz-sobczak-138928263)
+🔗 [LinkedIn](https://www.linkedin.com/in/łukasz-sobczak-138928263)
 
 ---
