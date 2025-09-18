@@ -1,19 +1,18 @@
 <h1>Hi 👋, I'm Łukasz</h1>
-<h3>💻 A passionate frontend developer from Poland</h3>
+<h3>💻 Aspiring programmer from Poland</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm currently sharpening my skills in **HTML**, **CSS**, and **JavaScript** 🧠✨  
-I've recently started using **Vite** ⚡ to improve my workflow, and I'm about to begin learning **React** ⚛️  
-Next up: **Node.js** 🌐 – because I'm aiming to become a **full-stack developer** 🚀
-
+I have some experience with HTML, CSS, and JavaScript 🌐
+Right now, I'm focusing on learning Java ☕ to strengthen my programming foundations.
+Step by step, I'm building the skills I need to grow as a developer 🚀
 ---
 
 ### 🚀 Projects
 
-- 🔭 I’m currently working on a [Dashboard project](https://github.com/LukaszMateuszSobczak/dashBoard)
+- 🔭 [Dashboard project](https://github.com/LukaszMateuszSobczak/dashBoard)
 
 ---
 
