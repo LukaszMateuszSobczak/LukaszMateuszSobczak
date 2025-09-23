@@ -6,7 +6,6 @@
 ### 👨‍💻 About Me
 
 I have some experience with HTML, CSS, and JavaScript 🌐
-Right now, I'm focusing on learning Java ☕ to strengthen my programming foundations.
 Step by step, I'm building the skills I need to grow as a developer 🚀
 ---
 
