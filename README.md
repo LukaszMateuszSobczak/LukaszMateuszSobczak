@@ -11,6 +11,7 @@ Step by step, I'm building the skills I need to grow as a developer 🚀
 
 ### 🚀 Projects
 
+- 👔 [EmployeeManagmentApp](https://github.com/LukaszMateuszSobczak/EmployeeMangamnetApp)
 - 🔭 [Dashboard project](https://github.com/LukaszMateuszSobczak/dashBoard)
 
 ---
