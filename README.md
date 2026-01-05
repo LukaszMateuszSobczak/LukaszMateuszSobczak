@@ -26,6 +26,8 @@ Step by step, I'm building the skills I need to grow as a developer 🚀
 
 ---
 
+![Metrics](./metrics.svg)
+
 ### 📈 GitHub Stats
 
 <p>
