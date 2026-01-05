@@ -1,6 +1,6 @@
 name: GitHub Metrics
 on:
-  schedule: [{ cron: "0 */12 * * *" }]   # aktualizacja co 12 godzin
+  schedule: [{ cron: "0 */6 * * *" }]   # aktualizacja co 12 godzin
   workflow_dispatch:                      # możliwość ręcznego uruchomienia
 
 jobs:
