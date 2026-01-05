@@ -1,7 +1,7 @@
 name: GitHub Metrics
 on:
-  schedule: [{ cron: "0 */6 * * *" }]   # aktualizacja co 12 godzin
-  workflow_dispatch:                      # możliwość ręcznego uruchomienia
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,20 +12,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: LukaszMateuszSobczak
           filename: metrics.svg
-
-          # Sekcje bazowe
           base: header, activity, repositories, metadata
 
-          # 🔹 Wybrane pluginy
           plugin_languages: yes
-          plugin_languages_threshold: 2%      # ukryj mało używane języki
+          plugin_languages_threshold: 2%
           plugin_languages_limit: 10
 
-          plugin_stars: yes                   # repozytoria, które oznaczyłeś ⭐
-          plugin_followup: yes                # aktywność w Twoich repo
-          plugin_activity: yes                # ostatnia aktywność
-          plugin_habits: yes                  # nawyki commitów (dni/godziny)
+          plugin_stars: yes
+          plugin_followup: yes
+          plugin_activity: yes
+          plugin_habits: yes
 
-          # 🔹 Wygląd (lekki, czytelny)
           config_timezone: Europe/Warsaw
           config_display: large
