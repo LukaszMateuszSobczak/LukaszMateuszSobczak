@@ -27,21 +27,15 @@ Building projects to develop backend skills and prepare for my first commercial 
 
 ---
 
-![Metrics](./metrics.svg)
 
 ### 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LukaszMateuszSobczak&show_icons=true&theme=github_dark" alt="GitHub stats" />
-</p>
+
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LukaszMateuszSobczak&theme=github-dark" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaszMateuszSobczak&layout=compact&theme=github_dark" alt="Top Langs" />
-</p>
 
 ---
 
