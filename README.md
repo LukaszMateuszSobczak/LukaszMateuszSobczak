@@ -3,16 +3,17 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I have some experience with HTML, CSS, and JavaScript 🌐
-Step by step, I'm building the skills I need to grow as a developer 🚀
----
-
 ### 🚀 Projects
 
 - 👔 [EmployeeManagmentApp](https://github.com/LukaszMateuszSobczak/EmployeeMangamnetApp)
 - 🔭 [Dashboard project](https://github.com/LukaszMateuszSobczak/dashBoard)
+
+---
+
+### 👨‍💻 About Me
+
+Junior .NET developer in learning phase — working with C#, ASP.NET Core, EF Core and SQL Server.
+Building projects to develop backend skills and prepare for my first commercial role
 
 ---
 
