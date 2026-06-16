@@ -12,8 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Junior .NET developer in learning phase — working with C#, ASP.NET Core, EF Core and SQL Server.
-Building projects to develop backend skills and prepare for my first commercial role
+Still learning
 
 ---
 
